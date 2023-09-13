@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DotNetECommerce.Model
 {
-    internal class Product
+    public class Product : BaseEntity
     {
+        public string Name { get; set; }
+        public decimal UnitPrice { get; set; }
+        public int CategoryId { get; set; }
+        public int SupplierId { get; set; }
     }
 }

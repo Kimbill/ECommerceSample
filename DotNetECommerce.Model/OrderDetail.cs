@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace DotNetECommerce.Model
 {
-    internal class OrderDetail
+    public class OrderDetail : BaseEntity
     {
+        public int OrderId { get; set; }
+        public int ProductId { get; set; }
+        public decimal UnitPrice { get; set; }
+        public int Quantity { get; set; }
+        public decimal Discount { get; set; }
     }
 }

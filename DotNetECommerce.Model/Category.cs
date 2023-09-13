@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace DotNetECommerce.Model
 {
-    internal class Category
+    public class Category : BaseEntity
     {
+        public string Name { get; set; }
+        public string Description { get; set; }
     }
 }

@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace DotNetECommerce.Model
 {
-    internal class Customer
+    public class Customer : BaseEntity
     {
+        public string CustomerName { get; set; }
+        public string Location { get; set; }
     }
 }

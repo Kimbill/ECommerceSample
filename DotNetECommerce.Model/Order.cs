@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DotNetECommerce.Model
 {
-    internal class Order
+    public class Order : BaseEntity
     {
+        public int CustomerId { get; set; }
+        public int ShipperId { get; set; }
+        public DateTime OrderDate { get; set; }
+
     }
 }

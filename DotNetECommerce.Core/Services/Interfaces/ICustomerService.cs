@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace DotNetECommerce.Core.Services.Interfaces
 {
-    internal interface Interface1
+    public interface ICustomerService
     {
+        
     }
 }

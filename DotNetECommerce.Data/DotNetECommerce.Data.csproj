@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="EPPlus" Version="6.2.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DotNetECommerce.Model\DotNetECommerce.Model.csproj" />
+  </ItemGroup>
+
 </Project>
