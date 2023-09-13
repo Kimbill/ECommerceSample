@@ -10,5 +10,6 @@ namespace DotNetECommerce.Model
     {
         public string CustomerName { get; set; }
         public string Location { get; set; }
+        public string City { get; set; }
     }
 }

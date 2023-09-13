@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace DotNetECommerce.Core.Services.Interfaces
 {
-    public interface ICustomerService
+    public interface ISalesReportService
     {
-        
-        
     }
 }

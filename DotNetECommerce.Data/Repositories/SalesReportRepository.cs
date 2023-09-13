@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DotNetECommerce.Core.Services.Interfaces
+namespace DotNetECommerce.Data.Repositories
 {
-    public interface ICustomerService
+    public class SalesReportRepository
     {
-        
-        
+
     }
 }

@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DotNetECommerce.Core.Services.Interfaces
+namespace DotNetECommerce.Data.Repositories.Interfaces
 {
-    public interface ICustomerService
+    public interface IOrderDetailRepository
     {
-        
-        
     }
 }

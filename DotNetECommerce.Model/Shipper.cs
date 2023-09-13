@@ -10,6 +10,6 @@ namespace DotNetECommerce.Model
     {
         public string ShipperName { get; set; }
         public string PhoneNumber { get; set; }
-        public string ShipperEmail { get; set; }
+        //public string ShipperEmail { get; set; }
     }
 }

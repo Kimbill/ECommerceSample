@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DotNetECommerce.Core.Services.Interfaces
+namespace DotNetECommerce.Application
 {
-    public interface ICustomerService
+    internal class Class1
     {
-        
-        
     }
 }
