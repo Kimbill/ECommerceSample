@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DotNetECommerce.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,8 @@ namespace DotNetECommerce.Data.Repositories.Interfaces
 {
     public interface IProductRepository
     {
+        void AddProduct(Product product);
+        List<Product> GetAllProducts();
+
     }
 }

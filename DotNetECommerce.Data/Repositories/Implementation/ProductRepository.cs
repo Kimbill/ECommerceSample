@@ -48,7 +48,7 @@ namespace DotNetECommerce.Data.Repositories.Implementation
             return products;
         }
 
-        public void AddCustomer(Customer customer)
+        public void AddProduct(Product product)
         {
             using var package = new ExcelPackage(new FileInfo(excelfilePath));
             var worksheet = package.Workbook.Worksheets.FirstOrDefault();
@@ -60,9 +60,9 @@ namespace DotNetECommerce.Data.Repositories.Implementation
 
             int nextRow = worksheet.Dimension.End.Row + 1;
 
-            worksheet.Cells[nextRow, 1].Value = customer.Id;
-            worksheet.Cells[nextRow, 2].Value = customer.CustomerName;
-            worksheet.Cells[nextRow, 3].Value = customer.Location;
+            worksheet.Cells[nextRow, 1].Value = product.Id;
+            worksheet.Cells[nextRow, 2].Value = product.SupplierId;
+            worksheet.Cells[nextRow, 3].Value = product.CategoryId;
 
             package.Save();
         }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DotNetECommerce.Data.Repositories.Interfaces
 {
-    internal interface ISalesReportRepository
+    public interface ISalesReportRepository
     {
     }
 }
