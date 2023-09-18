@@ -1,0 +1,12 @@
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Model\bin\Debug\net6.0\DotNetECommerce.Model.deps.json
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Model\bin\Debug\net6.0\DotNetECommerce.Model.dll
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Model\bin\Debug\net6.0\DotNetECommerce.Model.pdb
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Model\obj\Debug\net6.0\DotNetECommerce.Model.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Model\obj\Debug\net6.0\DotNetECommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Model\obj\Debug\net6.0\DotNetECommerce.Model.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Model\obj\Debug\net6.0\DotNetECommerce.Model.AssemblyInfo.cs
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Model\obj\Debug\net6.0\DotNetECommerce.Model.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Model\obj\Debug\net6.0\DotNetECommerce.Model.dll
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Model\obj\Debug\net6.0\refint\DotNetECommerce.Model.dll
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Model\obj\Debug\net6.0\DotNetECommerce.Model.pdb
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Model\obj\Debug\net6.0\ref\DotNetECommerce.Model.dll

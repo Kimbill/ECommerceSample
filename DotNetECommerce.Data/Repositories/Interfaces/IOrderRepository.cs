@@ -9,6 +9,10 @@ namespace DotNetECommerce.Data.Repositories.Interfaces
 {
     public interface IOrderRepository
     {
+        List<Order> GetAll()
+        {
+            return GetAllOrders();
+        }
         List<Order> GetAllOrders();
     }
 }

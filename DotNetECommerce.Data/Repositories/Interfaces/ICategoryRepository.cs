@@ -9,6 +9,6 @@ namespace DotNetECommerce.Data.Repositories.Interfaces
 {
     public interface ICategoryRepository
     {
-        List<Category> GetAllCategoriess();
+        List<Category> GetAllCategories();
     }
 }

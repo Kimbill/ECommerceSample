@@ -1,0 +1,15 @@
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\bin\Debug\net6.0\DotNetECommerce.Data.deps.json
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\bin\Debug\net6.0\DotNetECommerce.Data.dll
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\bin\Debug\net6.0\DotNetECommerce.Data.pdb
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\bin\Debug\net6.0\DotNetECommerce.Model.dll
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\bin\Debug\net6.0\DotNetECommerce.Model.pdb
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\obj\Debug\net6.0\DotNetECommerce.Data.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\obj\Debug\net6.0\DotNetECommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\obj\Debug\net6.0\DotNetECommerce.Data.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\obj\Debug\net6.0\DotNetECommerce.Data.AssemblyInfo.cs
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\obj\Debug\net6.0\DotNetECommerce.Data.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\obj\Debug\net6.0\DotNetECommerce.Data.csproj.CopyComplete
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\obj\Debug\net6.0\DotNetECommerce.Data.dll
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\obj\Debug\net6.0\refint\DotNetECommerce.Data.dll
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\obj\Debug\net6.0\DotNetECommerce.Data.pdb
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Data\obj\Debug\net6.0\ref\DotNetECommerce.Data.dll

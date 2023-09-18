@@ -10,6 +10,7 @@ namespace DotNetECommerce.Model
     {
         public int CustomerId { get; set; }
         public int ShipperId { get; set; }
+        public decimal TotalAmount { get; set; }
         public DateTime OrderDate { get; set; }
 
     }

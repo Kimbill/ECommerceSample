@@ -1,0 +1,17 @@
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\bin\Debug\net6.0\DotNetECommerce.Core.deps.json
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\bin\Debug\net6.0\DotNetECommerce.Core.dll
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\bin\Debug\net6.0\DotNetECommerce.Core.pdb
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\bin\Debug\net6.0\DotNetECommerce.Data.dll
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\bin\Debug\net6.0\DotNetECommerce.Model.dll
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\bin\Debug\net6.0\DotNetECommerce.Data.pdb
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\bin\Debug\net6.0\DotNetECommerce.Model.pdb
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\obj\Debug\net6.0\DotNetECommerce.Core.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\obj\Debug\net6.0\DotNetECommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\obj\Debug\net6.0\DotNetECommerce.Core.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\obj\Debug\net6.0\DotNetECommerce.Core.AssemblyInfo.cs
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\obj\Debug\net6.0\DotNetECommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\obj\Debug\net6.0\DotNetECommerce.Core.csproj.CopyComplete
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\obj\Debug\net6.0\DotNetECommerce.Core.dll
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\obj\Debug\net6.0\refint\DotNetECommerce.Core.dll
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\obj\Debug\net6.0\DotNetECommerce.Core.pdb
+C:\Users\Decagon\Documents\Projects\DotNetECommerce.Application\DotNetECommerce.Core\obj\Debug\net6.0\ref\DotNetECommerce.Core.dll

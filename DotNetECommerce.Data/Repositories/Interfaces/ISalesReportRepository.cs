@@ -8,5 +8,6 @@ namespace DotNetECommerce.Data.Repositories.Interfaces
 {
     public interface ISalesReportRepository
     {
+        List<Dictionary<string, object>> GenerateSalesReports();
     }
 }
